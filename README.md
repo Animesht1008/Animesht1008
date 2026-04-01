@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="Animesht1008" /> </p>
 ---
 
 # 💫 About Me:
@@ -73,21 +73,4 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Animesht1008&theme=tokyo-night)
 
----
-
-## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Animesht1008&theme=onedark&no-frame=true&margin-w=10)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Animesht1008/Animesht1008/output/github-contribution-grid-snake.svg)
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Animesht1008&label=Profile%20Views&color=0e75b6&style=flat)
 ---
