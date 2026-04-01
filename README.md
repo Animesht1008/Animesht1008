@@ -80,11 +80,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Animesht1008&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
-
-## 🧩 LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/animesht1008?theme=dark&ext=heatmap)
-
 ---
 
 ## 🐍 Contribution Snake
