@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor&center=true&width=500&height=50">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="Animesht1008" /> </p>
----
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Animesht1008&label=Profile%20views&color=0e75b6&style=flat" alt="Animesht1008" /> </p>
+
 
 # 💫 About Me:
 👷 Completed my B.Tech in Information Technology (2020–2024) from National Institute of Technology Raipur  
