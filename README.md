@@ -33,13 +33,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔗 Add your best project here (with GitHub link + short impact)
-- 🔗 Add another project (mention tech + what problem it solves)
-
----
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-tiwari-50731a1b3/) 
