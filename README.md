@@ -77,17 +77,17 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Animesht1008&theme=tokyonight&no-frame=true&margin-w=10)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Animesht1008&theme=onedark&no-frame=true&margin-w=10)
 
----
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Animesht1008/Animesht1008/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/Animesht1008/Animesht1008/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Animesht1008&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=Animesht1008&label=Profile%20Views&color=0e75b6&style=flat)
+---
