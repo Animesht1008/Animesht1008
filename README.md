@@ -27,9 +27,8 @@
 ---
 
 ## 🏆 Achievements
-
+- 🧠 Active Competitive Programmer (<b>MASTER</b> at Codeforces / 6 🌟 at LeetCode)  
 - 💻 Solved 500+ DSA problems across platforms  
-- 🧠 Active Competitive Programmer (Codeforces / LeetCode)  
 - 🚀 Built scalable full-stack applications using MERN  
 
 ---
